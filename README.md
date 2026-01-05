@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murad Maharramli</h1>
 <h3 align="center">A student from Azerbaijan who is deeply interested in Frontend development</h3>
 
-- 🌱 I’m currently learning **Javascript,Figma**
+- 🌱 I’m currently learning **Javascript, React, TypeScript**
 
 - 📫 How to reach me **mooradmaharramly@gmail.com**
 
