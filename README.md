@@ -3,7 +3,7 @@
 
 - I’m currently focused on **Creating and Optimizing strategic digital contents**
 
-- How to reach me **mooradmaharramly@gmail.com**
+- How to reach me **muradmaharramly@gmail.com**
 
 - For more information about me, visit my website: [muradmaharramli.me](https://muradmaharramli.me)
 ---
